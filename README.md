@@ -27,4 +27,4 @@ Stage de 3 mois à la mairie de Chambly : switchs Cisco Catalyst, VLAN, 802.1X /
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/paulo-ais/)
+[LinkedIn](https://www.linkedin.com/in/paulo-ais/) · [Mon site de révision AIS](https://notes-oclock.vercel.app), développé seul : cours de la promo mis en commun, labs, quiz, calculateur réseau
