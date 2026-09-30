@@ -10,16 +10,16 @@ Stage de 3 mois à la mairie de Chambly : switchs Cisco Catalyst, VLAN, 802.1X /
 
 | Projet | Ce que j'ai mis en place |
 |---|---|
-| [VPN site-à-site IPsec](https://github.com/Paulo0x/VPN-site-a-site) | Tunnel IPsec entre deux pfSense sur Proxmox, vérification du chiffrement, guide de dépannage |
-| [DMZ, pare-feu et NAT](https://github.com/Paulo0x/DMZ-guide) | Zone DMZ isolée avec pfSense, serveur web Nginx, règles de filtrage et redirection de port |
 | [Accès distant WireGuard](https://github.com/Paulo0x/homelab-vpn-wireguard) | VPN WireGuard sur pfSense pour accéder au LAN et au bureau à distance |
 | [Détection Suricata + Wazuh](https://github.com/Paulo0x/Suricata-Wazuh) | IDS Suricata relié au SIEM Wazuh, règle de détection personnalisée |
 | [Automatisation Bash](https://github.com/Paulo0x/TechSecure-Automation) | Sauvegarde avec rotation, supervision des ressources, création d'utilisateurs en masse |
+| [Scripts Active Directory et audit](https://github.com/Paulo0x/scripts-admin-ais) | Création de comptes AD en masse (PowerShell), audit d'un serveur Linux (Bash) |
 | [Guides d'installation](https://github.com/Paulo0x/Guides-d-Installation) | Procédures pas à pas : Proxmox, pfSense, WireGuard, Zabbix, Docker, Fail2Ban |
+| [Guide réseau](https://github.com/Paulo0x/guide-reseaux) | OSI, sous-réseaux, VLAN, DNS, DHCP, sécurité et dépannage |
 
 ## Compétences
 
-- **Réseau** : Cisco, VLAN, 802.1X / RADIUS, pfSense, VPN IPsec et WireGuard
+- **Réseau** : Cisco, VLAN, 802.1X / RADIUS, pfSense, VPN WireGuard
 - **Systèmes** : Windows Server, Active Directory, GPO, DNS, DHCP
 - **Virtualisation et sauvegarde** : Proxmox VE, Veeam
 - **Exploitation** : Zabbix, GLPI, ITIL v4
@@ -27,4 +27,4 @@ Stage de 3 mois à la mairie de Chambly : switchs Cisco Catalyst, VLAN, 802.1X /
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/paulo-ais/) · [Mes notes de formation](https://notes-oclock.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/paulo-ais/)
