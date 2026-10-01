@@ -10,6 +10,7 @@ Stage de 3 mois à la mairie de Chambly : switchs Cisco Catalyst, VLAN, 802.1X /
 
 | Projet | Ce que j'ai mis en place |
 |---|---|
+| [DeGivre](https://github.com/Paulo0x/Degivre) | Appli Android d'aide à la décision de dégivrage avion, née de mon expérience aéroportuaire : globe en temps réel, durées d'efficacité FAA 2026-2027, rapport PDF à signer. Conçue et pilotée par moi, code écrit avec l'assistance de Claude Code |
 | [Accès distant WireGuard](https://github.com/Paulo0x/homelab-vpn-wireguard) | VPN WireGuard sur pfSense pour accéder au LAN et au bureau à distance |
 | [Détection Suricata + Wazuh](https://github.com/Paulo0x/Suricata-Wazuh) | IDS Suricata relié au SIEM Wazuh, règle de détection personnalisée |
 | [Automatisation Bash](https://github.com/Paulo0x/TechSecure-Automation) | Sauvegarde avec rotation, supervision des ressources, création d'utilisateurs en masse |
