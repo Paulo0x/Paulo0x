@@ -11,6 +11,7 @@ Stage à la mairie de Chambly : switchs Cisco Catalyst, VLAN, 802.1X / RADIUS, A
 | Projet | Ce que j'ai mis en place |
 |---|---|
 | ⭐ [Lab PME](https://github.com/Paulo0x/lab-pme) | **Projet en cours** : le système d'information d'une PME de 25 salariés construit de zéro et documenté brique par brique (Proxmox, pfSense, Cisco, Active Directory, GLPI, Zabbix, Veeam, Microsoft 365). Tutos complets avec recette, dépannage réel et questions d'entretien |
+| [Forgeur](https://github.com/Paulo0x/Forgeur) | Appli Android de coaching musculation par IA : programme sur mesure, séances guidées, suivi des progrès. Clé API protégée derrière un relais Cloudflare Workers (limitation anti-abus, bascule de modèle). Conçue et pilotée par moi, code écrit avec l'assistance de Claude Code |
 | [DeGivre](https://github.com/Paulo0x/Degivre) | Appli Android d'aide à la décision de dégivrage avion, née de mon expérience aéroportuaire : globe en temps réel, durées d'efficacité FAA 2026-2027, rapport PDF à signer. Conçue et pilotée par moi, code écrit avec l'assistance de Claude Code |
 | [Accès distant WireGuard](https://github.com/Paulo0x/homelab-vpn-wireguard) | VPN WireGuard sur pfSense pour accéder au LAN et au bureau à distance |
 | [Détection Suricata + Wazuh](https://github.com/Paulo0x/Suricata-Wazuh) | IDS Suricata relié au SIEM Wazuh, règle de détection personnalisée |
