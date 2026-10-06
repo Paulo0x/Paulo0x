@@ -1,7 +1,7 @@
 # Paulo Rosa — Technicien systèmes et réseaux
 
 Titulaire du titre RNCP 6 **Administrateur d'Infrastructures Sécurisées** (O'clock, 2026).
-Stage de 3 mois à la mairie de Chambly : switchs Cisco Catalyst, VLAN, 802.1X / RADIUS, Active Directory, supervision Zabbix.
+Stage à la mairie de Chambly : switchs Cisco Catalyst, VLAN, 802.1X / RADIUS, Active Directory, supervision Zabbix.
 20 ans en environnement aéroportuaire 24/7 : procédures, incidents, horaires décalés.
 
 **Je recherche un poste de technicien d'exploitation ou systèmes et réseaux en Île-de-France.**
@@ -10,6 +10,7 @@ Stage de 3 mois à la mairie de Chambly : switchs Cisco Catalyst, VLAN, 802.1X /
 
 | Projet | Ce que j'ai mis en place |
 |---|---|
+| ⭐ [Lab PME](https://github.com/Paulo0x/lab-pme) | **Projet en cours** : le système d'information d'une PME de 25 salariés construit de zéro et documenté brique par brique (Proxmox, pfSense, Cisco, Active Directory, GLPI, Zabbix, Veeam, Microsoft 365). Tutos complets avec recette, dépannage réel et questions d'entretien |
 | [DeGivre](https://github.com/Paulo0x/Degivre) | Appli Android d'aide à la décision de dégivrage avion, née de mon expérience aéroportuaire : globe en temps réel, durées d'efficacité FAA 2026-2027, rapport PDF à signer. Conçue et pilotée par moi, code écrit avec l'assistance de Claude Code |
 | [Accès distant WireGuard](https://github.com/Paulo0x/homelab-vpn-wireguard) | VPN WireGuard sur pfSense pour accéder au LAN et au bureau à distance |
 | [Détection Suricata + Wazuh](https://github.com/Paulo0x/Suricata-Wazuh) | IDS Suricata relié au SIEM Wazuh, règle de détection personnalisée |
